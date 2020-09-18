@@ -1,0 +1,23 @@
+从 Chrome 源码看浏览器如何 layout 布局
+https://blog.csdn.net/soindy/article/details/70215531
+https://blog.csdn.net/soindy/article/details/70234580
+
+浏览器解析 CSS 样式的过程
+https://segmentfault.com/a/1190000018717319
+
+web前端高级-页面结构优化/性能优化
+https://www.bilibili.com/video/BV11Z4y1W7aT?t=9&p=13
+
+前端性能优化CRP
+https://www.bilibili.com/video/BV1Az411b7gh?t=5721
+
+Chromium中文文档（*）
+https://www.cntofu.com/book/101/index.html
+https://github.com/ahangchen/
+
+理解WebKit和Chromium（*）
+https://www.ituring.com.cn/book/1210
+
+Canvas2D及其实现
+https://www.ituring.com.cn/book/miniarticle/40631
+Chromium中的Canvas2D的绘制操作的实现都是由图形库skia来完成，这里包括软件和硬件加速实现，chromium所要做的就是把WebKit中的调用交给skia来执行并和自己的绘制模型和硬件加速机制集成起来。 
